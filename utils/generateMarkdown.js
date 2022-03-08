@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
 ## Description
-
+${data.decription}
 ## Table of Contents
 
 * [Installation](#installation)
@@ -45,6 +45,7 @@ function generateMarkdown(data) {
 ${renderLicenseLink(data.license)}
 
 ## Installation
+${data.installation}
 
 ## Usage
 

@@ -15,6 +15,26 @@ const questions = [
         name: 'license',
         message: 'Please select one of the following licenses:',
         choices:['a', 'b', 'c', 'Does not apply']
+    },
+    {
+        type:'input',
+        name: 'decription',
+        message:'Write a description of your project, What was your motivation? Why did you build this project? What problem does it solve? What did you learn?',
+    },
+    {
+        type:'input',
+        name:'installation',
+        message:'How do you install this project? Write a step by step description of how to install the project and get it running.',
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message:'How is this project used? Show examples using instructions and screenshots.'
+    },
+    {
+        type: 'input',
+        name: 'credits',
+        message:'Who helped you build this project? List any collaborators and make sure to include thier github profiles. Credit use of third party assets or tutorials with links to their websites.'
     }
     // 'What is the title of your project?',
     // 'What does your project do?'
