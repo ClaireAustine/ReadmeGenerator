@@ -51,13 +51,13 @@ ${data.installation}
 ${data.usage}
 ${renderLicenseSection(data.license)}
 
-##Credits
+## Credits
 ${data.credits}
 
-##Tests
+## Tests
 ${data.tests}
 
-##Questions
+## Questions
 https://github.com/${data.github}
 
 `;
