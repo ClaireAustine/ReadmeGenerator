@@ -48,8 +48,17 @@ ${renderLicenseLink(data.license)}
 ${data.installation}
 
 ## Usage
-
+${data.usage}
 ${renderLicenseSection(data.license)}
+
+##Credits
+${data.credits}
+
+##Tests
+${data.tests}
+
+##Questions
+https://github.com/${data.github}
 
 `;
 }
