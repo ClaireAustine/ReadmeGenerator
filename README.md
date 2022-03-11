@@ -1,8 +1,8 @@
-# afsafs
+# README Generator
   ![githut license](https://img.shields.io/badge/License-MIT-blueviolet.svg)
 
 ## Description
-asfasfasfs
+This is a simple README generator I built as a command line application to help myself and others build good readmes. I learned about using node while buiding this.
 ## Table of Contents
 
 * [Installation](#installation)
@@ -11,22 +11,22 @@ asfasfasfs
 * [License](#license)
 
 ## Installation
-asfasfasfas
+To use this application you will need to have node installed as well as inquirer.
 
 ## Usage
-asfasfasfaf
+This project is used inside the terminal and uses node to run.
 
   ## License
   
   This project is licensed under the MIT  license.
   
 
-##Credits
-asfasfafas
+## Credits
+N/A
 
-##Tests
-afasfafsafafafasfs
+## Tests
+N/A
 
-##Questions
+## Questions
 https://github.com/ClaireAustine
 
