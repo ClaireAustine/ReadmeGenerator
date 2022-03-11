@@ -1,33 +1,37 @@
 # README Generator
-  ![githut license](https://img.shields.io/badge/License-MIT-blueviolet.svg)
 
 ## Description
+
 This is a simple README generator I built as a command line application to help myself and others build good readmes. I learned about using node while buiding this.
+
 ## Table of Contents
 
-* [Installation](#installation)
+- [Installation](#installation)
 
-* [Usage](#usage)
-* [License](#license)
+- [Usage](#usage)
+- [License](#license)
 
 ## Installation
+
 To use this application you will need to have node installed as well as inquirer.
 
 ## Usage
+
 ![walk through of README generator, commandline application](https://github.com/ClaireAustine/ReadmeGenerator/blob/main/READMEwalkthru.mp4)
 This project is used inside the terminal and uses node to run.
 
-  ## License
-  
-  This project is licensed under the MIT  license.
-  
+## License
+
+No license.
 
 ## Credits
+
 N/A
 
 ## Tests
+
 N/A
 
 ## Questions
-https://github.com/ClaireAustine
 
+https://github.com/ClaireAustine
