@@ -21,7 +21,7 @@ To use this application you will need to have node installed as well as inquirer
 
 Walk through of README generator, commandline application. <br>
 https://youtu.be/MYaVPQJXz0w  <br>
-This project is used inside the terminal and uses node to run.
+This project is used inside the terminal and uses node to run. <br>
 Example of a generated README ![example](images/Example.png)
 
 ## License
