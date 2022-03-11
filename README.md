@@ -14,6 +14,7 @@ This is a simple README generator I built as a command line application to help 
 To use this application you will need to have node installed as well as inquirer.
 
 ## Usage
+![walk through of README generator, commandline application](https://github.com/ClaireAustine/ReadmeGenerator/blob/main/READMEwalkthru.mp4)
 This project is used inside the terminal and uses node to run.
 
   ## License
