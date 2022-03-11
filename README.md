@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple README generator I built as a command line application to help myself and others build good readmes. I learned about using node while buiding this.
+This is a simple README generator I built as a command line application to help myself and others build good readmes. I learned about using node while building this.
 
 ## Table of Contents
 
