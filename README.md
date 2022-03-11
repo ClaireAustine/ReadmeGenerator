@@ -18,7 +18,7 @@ To use this application you will need to have node installed as well as inquirer
 ## Usage
 
 Walk through of README generator, commandline application.
-https://youtu.be/MYaVPQJXz0w)
+https://youtu.be/MYaVPQJXz0w
 This project is used inside the terminal and uses node to run.
 
 ## License
